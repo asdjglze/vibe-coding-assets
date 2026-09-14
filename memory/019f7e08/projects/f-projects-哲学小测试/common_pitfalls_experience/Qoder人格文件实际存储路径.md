@@ -10,4 +10,4 @@ keywords:
     - "本地路径"
 ---
 
-Qoder中的'人格文件'（记忆）并非指代某个软件项目的代码库，而是存储在Qoder应用本地的目录中。具体路径为：`C:\Users\Administrator\.qoder\memories`。该目录下包含以UUID命名的文件夹和文件，用于持久化智能体的记忆数据。（来源：Bash）
+Qoder中的'人格文件'（记忆）并非指代某个软件项目的代码库，而是存储在Qoder应用本地的目录中。具体路径为：`C:\Users\win-user\.qoder\memories`。该目录下包含以UUID命名的文件夹和文件，用于持久化智能体的记忆数据。（来源：Bash）

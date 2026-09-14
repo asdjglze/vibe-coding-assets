@@ -12,7 +12,7 @@ keywords:
 ---
 
 ## 输入
-- Qoder 用户级规则文件绝对路径（如 `C:\Users\Administrator\.qoder\rules\xxx.md`）
+- Qoder 用户级规则文件绝对路径（如 `C:\Users\win-user\.qoder\rules\xxx.md`）
 - 需要修改的具体内容或指令
 
 ## 步骤

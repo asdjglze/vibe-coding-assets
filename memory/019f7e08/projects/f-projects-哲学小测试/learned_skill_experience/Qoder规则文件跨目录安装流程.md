@@ -28,4 +28,4 @@ keywords:
 - **中文乱码问题**：在 PowerShell 命令行中直接传递包含中文的内容（如文件名或参数）可能导致多字节字符损坏。建议：
   - 使用 ASCII 命名的临时文件（如 `_tmp_rule.md`）。
   - 或者改用 Python 脚本处理中文内容。
-- **权限与路径**：用户级规则位于 `C:\Users\Administrator\.qoder\rules\`，需确保目录存在。
+- **权限与路径**：用户级规则位于 `C:\Users\win-user\.qoder\rules\`，需确保目录存在。

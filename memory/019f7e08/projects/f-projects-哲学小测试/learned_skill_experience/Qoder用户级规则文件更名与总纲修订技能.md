@@ -12,7 +12,7 @@ keywords:
 ---
 
 ## 输入
-- 目标规则文件路径：`C:\Users\Administrator\.qoder\rules\revolutionary-collaboration-protocol.md`
+- 目标规则文件路径：`C:\Users\win-user\.qoder\rules\revolutionary-collaboration-protocol.md`
 - 模块名称变更（如：`令行禁止` → `一切行动听指挥`）
 - 新总纲内容
 
